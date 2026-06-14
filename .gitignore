@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+bot_output.txt
+bot_errors.txt
+bot_out.txt
+bot_err.txt
+bot_o.txt
+bot_e.txt
+.vscode/
+data/db.json
