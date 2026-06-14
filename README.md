@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/versión-10/10-2ecc71?style=flat-square"/>
   <img src="https://img.shields.io/badge/python-3.10+-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/discord.py-2.3+-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/licencia-MIT-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/licencia-propietaria-red?style=flat-square"/>
 </p>
 
 ---
@@ -268,7 +268,7 @@ python3 main.py
 |---|-----|
 | 👨‍💻 **Creadores** | **ancestors_kant** & **Exxe** |
 | ⚽ **Versión** | 10/10 — Mejora Total |
-| 🐛 **Reportar bugs** | [Abrir issue](https://github.com/tu-usuario/FUTROL/issues) |
+| 🐛 **Reportar bugs** | [Discord](https://discord.gg/Hn6j2UD4) |
 
 ---
 
